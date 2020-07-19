@@ -1,0 +1,64 @@
+2020-07-18 17:33:23,908 Setting timezone to America/Mexico_City
+2020-07-18 17:34:33,179 Connecting to InfluxDB using port 8086...
+2020-07-18 17:34:33,330 Connected!
+2020-07-18 17:34:33,330 Reading stocks value...
+2020-07-18 17:36:13,690 Connecting to InfluxDB using port 8086...
+2020-07-18 17:36:13,693 Connected!
+2020-07-18 17:36:13,693 Reading stocks value...
+2020-07-18 17:37:49,333 BMV finished operations for today.
+2020-07-18 17:37:49,333 Closing connections.
+2020-07-18 17:38:52,382 Writing without problems
+2020-07-18 17:39:49,699 Setting timezone to America/Mexico_City
+2020-07-18 17:39:49,700 Connecting to InfluxDB using port 8086...
+2020-07-18 17:39:49,702 Connected!
+2020-07-18 17:39:49,702 Reading stocks value...
+2020-07-18 17:39:49,702 Service stoped
+2020-07-18 17:39:49,702 name 'date' is not defined
+2020-07-18 17:40:13,105 Setting timezone to America/Mexico_City
+2020-07-18 17:40:13,105 Connecting to InfluxDB using port 8086...
+2020-07-18 17:40:13,107 Connected!
+2020-07-18 17:40:13,107 Reading stocks value...
+2020-07-18 17:40:14,001 Service stoped
+2020-07-18 17:40:14,001 'str' object has no attribute 'get'
+2020-07-18 17:40:53,344 Setting timezone to America/Mexico_City
+2020-07-18 17:40:53,344 Connecting to InfluxDB using port 8086...
+2020-07-18 17:40:53,346 Connected!
+2020-07-18 17:40:53,346 Reading stocks value...
+2020-07-18 17:41:10,441 Writing without problems
+2020-07-18 17:41:27,642 Writing without problems
+2020-07-18 17:41:46,102 Writing without problems
+2020-07-18 17:42:03,953 Writing without problems
+2020-07-18 17:42:21,222 Writing without problems
+2020-07-18 17:42:38,483 Writing without problems
+2020-07-18 17:42:56,377 Writing without problems
+2020-07-18 17:43:13,870 Writing without problems
+2020-07-18 17:43:30,938 Writing without problems
+2020-07-18 17:43:48,558 Writing without problems
+2020-07-18 17:44:05,393 Writing without problems
+2020-07-18 17:44:23,878 Writing without problems
+2020-07-18 17:44:41,796 Writing without problems
+2020-07-18 17:44:59,489 Writing without problems
+2020-07-18 17:45:19,075 Writing without problems
+2020-07-18 17:45:36,860 Writing without problems
+2020-07-18 17:45:54,228 Writing without problems
+2020-07-18 17:46:12,447 Writing without problems
+2020-07-18 17:46:30,272 Writing without problems
+2020-07-18 17:46:49,525 Writing without problems
+2020-07-18 17:47:07,477 Writing without problems
+2020-07-18 17:47:25,311 Writing without problems
+2020-07-18 17:47:42,305 Writing without problems
+2020-07-18 17:48:00,565 Writing without problems
+2020-07-18 17:48:18,118 Writing without problems
+2020-07-18 17:48:37,327 Writing without problems
+2020-07-18 17:48:55,130 Writing without problems
+2020-07-18 17:49:13,398 Writing without problems
+2020-07-18 17:49:30,474 Writing without problems
+2020-07-18 17:49:48,743 Writing without problems
+2020-07-18 17:50:06,828 Writing without problems
+2020-07-18 17:50:25,205 Writing without problems
+2020-07-18 17:50:43,398 Writing without problems
+2020-07-18 17:51:01,950 Writing without problems
+2020-07-18 17:51:19,461 Writing without problems
+2020-07-18 17:51:36,871 Writing without problems
+2020-07-18 17:51:55,339 Writing without problems
+2020-07-18 17:52:13,474 Writing without problems
