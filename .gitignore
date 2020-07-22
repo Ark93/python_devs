@@ -1,0 +1,10 @@
+
+# ignore all .log files
+*.log
+
+# ignore ipython_checkpoints
+*/.ipynb_checkpoints
+
+#ignore pycache
+__pycache__/
+

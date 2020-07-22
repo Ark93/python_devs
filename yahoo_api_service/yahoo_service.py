@@ -25,7 +25,7 @@ try:
                             config.influxdb_config.get('influxdb_port')
                            )
     client.ping()
-    client.switch_database(config.influxdb_config.get('influxdb_db'))
+    client.switch_database(codockig.influxdb_config.get('influxdb_db'))
     json_body = [config.influxdb_config.get('influxdb_json_body')]
     logging.info('Connected!')
     logging.info('Reading stocks value...')

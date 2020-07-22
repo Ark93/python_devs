@@ -1,4 +1,0 @@
-INFO:root:Setting timezone to America/Mexico_City
-INFO:root:Connecting to InfluxDB using port 8086...
-INFO:root:Connected!
-INFO:root:Reading stocks value!
