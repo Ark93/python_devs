@@ -62,3 +62,9 @@
 2020-07-18 17:51:36,871 Writing without problems
 2020-07-18 17:51:55,339 Writing without problems
 2020-07-18 17:52:13,474 Writing without problems
+2020-07-21 21:51:53,285 Setting timezone to America/Mexico_City
+2020-07-21 21:51:55,130 Connecting to InfluxDB using port 8086...
+2020-07-21 21:51:55,277 Connected!
+2020-07-21 21:51:55,278 Reading stocks value...
+2020-07-21 21:51:59,744 BMV finished operations for today.
+2020-07-21 21:51:59,744 Closing connections.
